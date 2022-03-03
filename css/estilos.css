@@ -1,0 +1,10 @@
+.center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;    
+      }
+
+.cinza_claro {
+        color: #878787;
+}
